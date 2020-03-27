@@ -9,7 +9,6 @@ partners:
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 - "/uploads/2020/03/27/calderon-logo.jpg"
 - "/uploads/2020/03/27/classicademy logo.png"
-- "/uploads/2017/11/13/stem.png"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
