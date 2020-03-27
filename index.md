@@ -1,12 +1,15 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/03/27/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
 layout: landing-page
 heading: Educcentral Philippines
 partners:
+- "/uploads/2020/03/27/regional logo.png"
+- "/uploads/2020/03/27/deped logo.jpg"
+- "/uploads/2020/03/27/educcentralph-logo.jpg"
+- "/uploads/2020/03/27/calderon-logo.jpg"
+- "/uploads/2020/03/27/classicademy logo.png"
 - "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
