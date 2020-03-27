@@ -11,6 +11,7 @@ sponsors:
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 - "/uploads/2020/03/27/deped logo.jpg"
 - "/uploads/2020/03/27/regional logo.png"
+show_news: true
 menu:
   navigation:
     identifier: _contact
