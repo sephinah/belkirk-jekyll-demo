@@ -69,6 +69,10 @@ fields:
 - type: image_gallery
   name: partners
   label: Partner Logos
+- name: sponsors
+  type: image_gallery
+  config: {}
+  label: sponsors
 - type: boolean
   name: show_staff
   label: Show Staff?
