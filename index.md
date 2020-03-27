@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/03/27/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
+banner_image: "/uploads/2020/03/27/ian-schneider-TamMbr4okv4-unsplash.jpg"
 layout: landing-page
 heading: Educcentral Philippines
 partners:
