@@ -9,6 +9,7 @@ tags:
 - educcentralph
 - computer education
 - computer
+- kto12
 banner_image: ''
 related_posts:
 - _posts/2020-03-27-what-is-k-to-12-program.md
