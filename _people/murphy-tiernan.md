@@ -34,3 +34,9 @@ First of all, I am grateful to finish my education and always continue pursuing 
 > ### Education is the stimuli "pleasure of learning.
 >
 > > ***
+
+At the very beginning, Education is something that we need to inhale as being.  A child does not have the fruit of knowing until he gets into his or her senses.  Naturally, the ability of the child to respond is through his or her senses.  There is no theory that definitely explains the natural response of a living thing with his or her environment using his or her senses.  For example, when you lit a candle where there are many flies flying, the general actions of the flies is to fly away because of the heat of the surrounding caused by the heat of the light.  With this manifestation, mosquitos' brain functions like the human brain. Though rudimentary compared to human brains, mosquito brains are sufficient for the feeding and reproduction of the mosquitoes, and also more or less protect them from predators.
+
+In this scenario, through the concept of environment, the natural response of the living is the capability of surviving. Whereas, nurturing with proper training and education will enhance the ability through learning.
+
+Together with my various academic teams, we will bring as good knowledge as much as we can provide to contribute to the future of the next generation.
