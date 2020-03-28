@@ -40,6 +40,7 @@ sponsors:
 - "/uploads/2020/03/27/deped logo.jpg"
 - "/uploads/2020/03/27/regional logo.png"
 show_partners: true
+show_partner_institutions: true
 menu:
   navigation:
     identifier: _index
