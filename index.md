@@ -19,9 +19,8 @@ services:
 - description: Science, Technology, Engineering, Mathematics
   heading: STEM
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: Accounting and Business Management Courses
+  heading: Accounting and Business Management
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Online Open Education Start now for FREE!
 textline: |-
