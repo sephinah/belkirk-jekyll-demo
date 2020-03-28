@@ -16,7 +16,7 @@ sub_heading: Together we bring EFA (Education For All)
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 5
 
 ---
 ## Hours of Operation
