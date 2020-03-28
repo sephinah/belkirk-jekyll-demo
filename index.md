@@ -13,6 +13,9 @@ partners:
 - "/uploads/2017/11/13/innovation-pei-logo.png"
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 services:
+- heading: Higher Education Programs
+  description: Bachelors Degree Programs
+  icon: "/uploads/2020/03/28/CHED-LOGO.png"
 - heading: K-12 Program
   description: Kindergarten to Grade 12 Programs
   icon: "/uploads/2020/03/27/deped logo.jpg"
