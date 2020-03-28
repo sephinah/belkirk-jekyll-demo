@@ -30,4 +30,4 @@ show_staff: false
 
 1231232
 
-1312321
+1312321![](/uploads/2020/03/27/classicademy logo.png)
