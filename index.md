@@ -24,7 +24,7 @@ services:
   icon: "/uploads/2020/03/27/classicademy logo.png"
 - description: Science, Technology, Engineering, Mathematics
   heading: STEM
-  icon: "/uploads/2017/11/13/health.png"
+  icon: "/uploads/2020/03/28/STEM-Feature-Image.jpg"
 - description: Accounting and Business Management Courses
   heading: ABM
   icon: "/uploads/2020/03/28/abm-strand-1-638.jpg"
