@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 thumbnail: "/uploads/2020/03/28/profile-me1.jpg"
-sub_heading: Professor
+sub_heading: Founder
 email: centroedukado@gmail.com
 linkedin: ''
 layout: person
