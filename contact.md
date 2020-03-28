@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/03/27/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
+banner_image: "/uploads/2020/03/27/banner 2.jpg"
 heading: Educcentral Philippines Online Education Program
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
