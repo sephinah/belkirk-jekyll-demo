@@ -5,7 +5,7 @@ sub_heading: Official Class Record Excel Template
 date: 2020-03-28 16:00:00 +0000
 tags:
 - kto12
-banner_image: ''
+banner_image: "/uploads/2020/03/27/deped logo.jpg"
 related_posts:
 - _posts/2020-03-27-html-fundamental.md
 - _posts/learn-adobe-photoshop.md
