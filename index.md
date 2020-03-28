@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/03/27/lauren-mancke-aOC7TSLb1o8-unsplash.jpg"
+banner_image: "/uploads/2020/03/27/banner 1.jpg"
 layout: landing-page
 heading: Educcentral Philippines
 partners:
