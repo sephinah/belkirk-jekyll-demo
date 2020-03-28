@@ -4,7 +4,9 @@ banner_image: "/uploads/2020/03/27/banner 1.jpg"
 layout: landing-page
 heading: Educcentral Philippines
 partners:
-- "/uploads/2020/03/27/educcentralph-logo.jpg"
+- "/uploads/2020/03/27/regional logo.png"
+- "/uploads/2020/03/28/CHED-LOGO.png"
+- "/uploads/2020/03/28/1200px-Technical_Education_and_Skills_Development_Authority_(TESDA).svg.png"
 services:
 - heading: TESDA Courses
   description: Short Course Diploma
