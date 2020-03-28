@@ -1,7 +1,7 @@
 ---
 title: Home
 banner_image: "/uploads/2020/03/27/lauren-mancke-aOC7TSLb1o8-unsplash.jpg"
-layout: landing-page
+layout: home
 heading: Educcentral Philippines
 partners:
 - "/uploads/2017/11/13/nysed.png"
@@ -43,4 +43,3 @@ menu:
     weight: 1
 
 ---
-31231231231231312
