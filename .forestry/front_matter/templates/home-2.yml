@@ -6,3 +6,8 @@ fields:
   type: image_gallery
   config: {}
   label: sponsor
+- name: layout
+  type: include
+  config: {}
+  template: landing-page
+  label: layout
