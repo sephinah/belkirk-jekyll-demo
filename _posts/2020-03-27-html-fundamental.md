@@ -17,6 +17,10 @@ related_posts:
 ---
 ### HTML Fundamentals
 
+Learning HTML Hypertext markup language is a very exciting course to pursue. Check this website to start learning the basics of HTML.
+
+[HTML Fundamentals](https://www.w3schools.com/html/default.asp)
+
 #### Quiz time
 
 <iframe src="https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1">
