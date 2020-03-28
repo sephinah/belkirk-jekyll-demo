@@ -124,3 +124,91 @@ ELEMENTARY
 The Kindergarten Curriculum Framework (KCF) draws from the goals of the K to 12 Philippine Basic Education Curriculum Framework and adopts the general principles of the National Early Learning Framework (NELF). Kindergarten learners need to have a smooth transition to the content-based curriculum of Grades 1 to 12.
 
 [Download Curriculum Guide](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2Fpage%2F2014%2FFinal%2520Kindergarten%2520CG%2520December%25202013.pdf&sa=D&sntz=1&usg=AFQjCNHwNG6BMM-l7GdbUdmwDw2D6ngX7w)
+
+GRADES 1-10
+
+Students in Grades 1 to 10 will experience an enhanced, context-based, and spiral progression learning curriculum with the following subjects:
+
+##### SUBJECTS
+
+* [Mother Tongue](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2Fpage%2F2015%2FFinal%2520Mother%2520Tongue%2520Grades%25201-3%252001.21.2014_EDITED%252002.24.2015.pdf%23overlay-context%3Dk-to-12%2FAbout%2Fcurriculum-guides%2FGrade-1-10&sa=D&sntz=1&usg=AFQjCNFI3HhEkrwzAMr7qPxM3konUBYDYQ)
+* [Filipino](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2FFilipino%2520Gabay%2520Pangkurikulum%2520Baitang%25201-10%2520Disyembre%25202013.pdf&sa=D&sntz=1&usg=AFQjCNHj6ylk5lLV9zkCGUKu44zO21VTQQ)
+* [English](http://www.deped.gov.ph/sites/default/files/page/2015/English%20CG%20for%20reuploading_03.04.15.pdf#overlay-context=k-to-12/About/curriculum-guides/Grade-1-10)
+* [Mathematics](http://www.deped.gov.ph/sites/default/files/Math%20Curriculum%20Guide%20Grades%201-10%20December%202013.pdf)
+* [Science](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2Fpage%2F2014%2FFinal%2520Science%2520CG%25203-10%252005.08.2014.pdf&sa=D&sntz=1&usg=AFQjCNE2JUN3vzRkO0kftzePNA52H7XIHA)
+* [Araling Panlipunan](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2FAraling%2520Panlipunan%2520Grades%2520%25201-10%252001.17.2014%2520edited%2520March%252025%25202014.pdf&sa=D&sntz=1&usg=AFQjCNErWDw5boWjoc6y-pQfgbxOGPAK_A)
+* [Edukasyon sa Pagpapakatao (EsP)](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2FEdukasyon%2520sa%2520Pagpapakatao%2520Curriculum%2520Guide%2520Grade%25201-10.pdf&sa=D&sntz=1&usg=AFQjCNGwkZ8q2B6f-4Pv4Q0_xZD3zb-L8A)
+* [Music](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2FMusic%2520Curriculum%2520Guide%2520Grades%25201-10%2520December%25202013.pdf&sa=D&sntz=1&usg=AFQjCNGqaA4abNqNHvDe_kiyHZxct42FNQ)
+* [Arts](http://www.deped.gov.ph/sites/default/files/Art%20Curriculum%20Guide%20Grades%201-10%20December%202013.pdf)
+* [Physical Education](http://www.deped.gov.ph/sites/default/files/Final%20Physical%20Education%201-10%2001.13.2014_edited%20May%201%2C%202014.pdf)
+* [Health](http://www.deped.gov.ph/sites/default/files/Final%20Health%201-10%2001.09.2014.pdf)
+* [Edukasyong Pantahanan at Pangkabuhayan (EPP)](http://www.deped.gov.ph/sites/default/files/Edukasyong%20Pantahanan%20at%20Pangkabuhayan%20and%20Technology%20and%20Livelihood%20Education%20Grades%204-6%20December%202013.pdf)
+* [Technology and Livelihood Education (TLE)](https://www.officialgazette.gov.ph/k-12/)
+
+SENIOR HIGH (GRADES 11-12)
+
+Senior High School is two years of specialized upper secondary education; students may choose a specialization based on aptitude, interests, and school capacity. The choice of career track will define the content of the subjects a student will take in Grades 11 and 12. Each student in Senior High School can choose among three tracks: Academic; Technical-Vocational-Livelihood; and Sports and Arts. The Academic track includes three strands: Business, Accountancy, Management (BAM); Humanities, Education, Social Sciences (HESS); and Science, Technology, Engineering, Mathematics (STEM).
+
+##### [CORE CURRICULUM SUBJECTS](http://www.deped.gov.ph/k-to-12/curriculum-guides/Core-SHS)
+
+There are seven Learning Areas under the Core Curriculum: Languages, Literature, Communication, Mathematics, Philosophy, Natural Sciences, and Social Sciences.
+
+* Oral comunication
+* Reading and writing
+* Komunikasyon at pananaliksik sa wika at kulturang Filipino
+* 21st century literature from the Philippines and the world
+* Contemporary Philippine arts from the regions
+* Media and information literacy
+* General mathematics
+* Statistics and probability
+* Earth and life science
+* Physical science
+* Introduction to philosophy of the human person/Pambungad sa pilosopiya ng tao
+* Physical education and health
+* Personal development/pansariling kaunlaran
+* Earth science (instead of Earth and life science for those in the STEM strand)
+* Disaster readiness and risk reduction (taken instead of Physical science for those in the STEM strand)
+
+[APPLIED TRACK SUBJECTS](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fk-to-12%2Fcurriculum-guides%2FAcademic-Track&sa=D&sntz=1&usg=AFQjCNH7scXyUUufh8x501qhX_ADVU_L3w)
+
+* English for academic and professional purposes
+* Practical research 1
+* Practical research 2
+* Filipino sa piling larangan
+  * Akademik
+  * Isports
+  * Sining
+  * Tech-voc
+* Empowerment technologies (for the strand)
+* Entrepreneurship
+* Inquiries, investigatories, and immersion
+
+[SPECIALIZED SUBJECTS](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fk-to-12%2Fcurriculum-guides%2FAcademic-Track&sa=D&sntz=1&usg=AFQjCNH7scXyUUufh8x501qhX_ADVU_L3w)
+
+* Accountancy, business, and and management strand
+* Humanities and social sciences strand
+* Science, technology, engineering, and mathematics strand
+* General academic strand
+
+IMPLEMENTATION AND TRANSITION MANAGEMENT
+
+#### IMPLEMENTATION
+
+![Implementation](https://www.officialgazette.gov.ph/images/uploads/Implementation.png =940x372)Program implementation in public schools is being done in phases starting SY 2012–2013. Grade 1 entrants in SY 2012–2013 are the first batch to fully undergo the program, and current 1st year Junior High School students (or Grade 7) are the first to undergo the enhanced secondary education program. To facilitate the transition from the existing 10-year basic education to 12 years, DepEd is also implementing the SHS and SHS Modeling.
+
+#### TRANSITION FOR PRIVATE SCHOOLS
+
+  
+![Private-school-transition](https://www.officialgazette.gov.ph/images/uploads/Private-school-transition.png =940x341)
+
+Private schools craft their transition plans based on: (1) current/previous entry ages for Grade 1 and final year of Kinder, (2) duration of program , and most importantly, (3) content of curriculum offered.
+
+ACHIEVEMENTS AND PLANS
+
+| RESOURCE | 2010 SHORTAGE | 2010 TO 2014 ACCOMPLISHMENT | PLANS FOR 2015 |
+| --- | --- | --- | --- |
+| Classrooms | 66,800 | 86,478 constructed classrooms as of February 2015 | 41,728 classrooms for Kinder to Grade 1230,000 of which are for Senior High School (Grades 11 and 12) |
+| Teacher Items | 145,827 | 128,105 teachers hired as of December 31, 2014 | 39,066 additional teacher items |
+| Water and Sanitation | 135,847 | 80,197 completed23,414 ongoing construction43,536 ongoing procurement as of May 2014 | 13,586 programmed for 2015 |
+| Textbooks | 61.7M | 1:1 student-textbook ratio since December 2012 | 69.5 million additional learning materials |
+| Seats | 2,573,212 | 1:1 student-school seat ratio since December 2012 | 1,547,531 additional new seats |
