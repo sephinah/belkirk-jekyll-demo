@@ -25,6 +25,11 @@ sections:
   templates:
   - person
 - type: directory
+  path: _partners
+  label: Partners
+  create: all
+  match: "/*"
+- type: directory
   path: _projects
   label: Projects
   create: all
