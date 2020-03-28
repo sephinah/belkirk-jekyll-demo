@@ -7,7 +7,6 @@ sub_heading: Founder
 thumbnail: "/uploads/2020/03/28/profile-me1.jpg"
 email: centroedukado@gmail.com
 linkedin: linkedin/educcentralph
-published: false
 
 ---
 Eschnaseth N. Maceda is a teacher since 2013 and founded Educcentral Philippines as part of fulfilling his goals in life.
