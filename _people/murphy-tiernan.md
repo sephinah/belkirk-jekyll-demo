@@ -18,3 +18,11 @@ He received his Master's Degree in Educational Management from Polytechnic Unive
 He published several books, modules for free consumption at the public school where he is presently working.
 
 One of his goal in life is to provide quality and access to education to the future generation
+
+#### "I believe that education is the key bearer to illuminate the darkness."
+
+\-Eschnaseth N. Maceda
+
+I have created this website generally for the sake of the common good of everyone not only for some that have the passion for learning and to learn, rather promote goodness and value in educating ourselves. Formal or non-formal, traditional or blended kind of learning is called education.
+
+I have obtained 663
