@@ -1,4 +1,8 @@
 ---
 label: home 2
 hide_body: false
-fields: []
+fields:
+- name: sponsor
+  type: image_gallery
+  config: {}
+  label: sponsor
