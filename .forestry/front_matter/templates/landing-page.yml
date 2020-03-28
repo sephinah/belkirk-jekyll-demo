@@ -62,13 +62,13 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: show_partners
+  type: boolean
+  label: Show Partners
 - type: boolean
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
-- type: image_gallery
-  name: partners
-  label: Partner Logos
 - type: boolean
   name: show_staff
   label: Show Staff?
