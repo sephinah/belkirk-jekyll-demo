@@ -10,7 +10,13 @@ hero_button:
 textline: ''
 services: []
 show_news: false
-partners: []
+partners:
+- "/uploads/2020/03/27/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
+- "/uploads/2020/03/27/classicademy logo.png"
+- "/uploads/2020/03/27/calderon-logo.jpg"
+- "/uploads/2020/03/27/educcentralph-logo.jpg"
+- "/uploads/2020/03/27/deped logo.jpg"
+- "/uploads/2020/03/27/regional logo.png"
 sponsors:
 - "/uploads/2020/03/27/classicademy logo.png"
 - "/uploads/2020/03/27/calderon-logo.jpg"
