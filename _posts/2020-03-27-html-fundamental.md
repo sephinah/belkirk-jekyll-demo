@@ -23,6 +23,6 @@ Learning HTML Hypertext markup language is a very exciting course to pursue. Che
 
 #### Quiz time
 
-<iframe src="https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1">
+It is good to test your ability check out the website link below to test your knowledge
 
-</iframe>
+[HTML Exercises]()
