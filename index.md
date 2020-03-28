@@ -3,7 +3,13 @@ title: Home
 banner_image: "/uploads/2020/03/27/lauren-mancke-aOC7TSLb1o8-unsplash.jpg"
 layout: landing-page
 heading: Educcentral Philippines
-partners: []
+partners:
+- "/uploads/2020/03/27/deped logo.jpg"
+- "/uploads/2020/03/28/CHED-LOGO.png"
+- "/uploads/2020/03/28/abm-strand-1-638.jpg"
+- "/uploads/2020/03/28/STEM-Feature-Image.jpg"
+- "/uploads/2020/03/28/1200px-Technical_Education_and_Skills_Development_Authority_(TESDA).svg.png"
+- "/uploads/2020/03/27/educcentralph-logo.jpg"
 services:
 - heading: TESDA Courses
   description: Short Course Diploma
@@ -41,6 +47,7 @@ sponsors:
 - "/uploads/2020/03/27/regional logo.png"
 show_partners: true
 show_partner_institutions: true
+show_partners_: true
 menu:
   navigation:
     identifier: _index
