@@ -5,7 +5,7 @@ categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
 banner_image: "/uploads/2020/03/28/ITIL-Certification.png"
-sub_heading: ''
+sub_heading: Online Certification Program
 tags:
 - short course diploma
 - educcentralph
