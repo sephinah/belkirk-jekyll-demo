@@ -13,6 +13,9 @@ partners:
 - "/uploads/2017/11/13/innovation-pei-logo.png"
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 services:
+- heading: TESDA Courses
+  description: Short Course Diploma
+  icon: "/uploads/2020/03/28/1200px-Technical_Education_and_Skills_Development_Authority_(TESDA).svg.png"
 - heading: Higher Education Programs
   description: Bachelors Degree Programs
   icon: "/uploads/2020/03/28/CHED-LOGO.png"
