@@ -23,6 +23,6 @@ Learning HTML Hypertext markup language is a very exciting course to pursue. Che
 
 #### Quiz time
 
-It is good to test your ability check out the website link below to test your knowledge
+It is good to test your ability to check out the website link below to test your knowledge
 
 [HTML Exercises]()
