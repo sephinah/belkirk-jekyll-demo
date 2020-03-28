@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTML Fundamental
+title: HTML Fundamentals
 sub_heading: Hypertext Markup Language Fundamentals
 date: 
 tags:
