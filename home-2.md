@@ -26,4 +26,3 @@ sponsors:
 show_staff: true
 
 ---
-fdsafdsafdsafadfsafdsa
