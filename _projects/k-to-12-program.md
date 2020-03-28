@@ -5,7 +5,6 @@ title: K to 12 Program
 sub_heading: Kindergarten to Senior High School Grade 12 Program
 banner_image: "/uploads/2020/03/28/kto12.png"
 slug: kto12
-published: false
 
 ---
 #### [Elementary Education]( "Elementary Education")
