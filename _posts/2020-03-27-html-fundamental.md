@@ -2,7 +2,7 @@
 layout: post
 title: HTML Fundamentals
 sub_heading: Hypertext Markup Language Fundamentals
-date: 2020-03-27 16:00:00 +0000
+date: 2020-03-27T16:00:00.000+00:00
 tags:
 - html
 - ict
@@ -10,7 +10,8 @@ tags:
 - computer education
 - computer
 banner_image: ''
-related_posts: []
+related_posts:
+- _posts/2020-03-27-what-is-k-to-12-program.md
 
 ---
 ### HTML Fundamentals
