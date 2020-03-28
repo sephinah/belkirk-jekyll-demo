@@ -42,4 +42,4 @@ Together with my various academic teams, we will bring as good knowledge as much
 
 > Help me to go further, through donating with your act of kindness.
 >
-> [I'd Like to Donate :)](gf.me/u/xtkdzh "Donate")
+> [I support Educcentral Philippines!](gf.me/u/xtkdzh "Donate")
