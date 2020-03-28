@@ -1,18 +1,20 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+title: Eschnaseth N. Maceda
+date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
+thumbnail: "/uploads/2020/03/28/profile-me2.jpg"
 sub_heading: Professor
 email: murphy@belkirkcollege.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+Eschnaseth N. Maceda is a teacher since 2013 and founded Educcentral Philippines as part of fulfilling his goals in life.
 
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+He received his Master's Degree in Educational Management from Polytechnic University of the Philippines in 2015 and currently pursuing his Ph.D. in Policy and Administration in Education.
 
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
+He published several books, modules for free consumption at the public school where he is presently working.
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+One of his goal in life is to provide quality and access to education to the future generation
