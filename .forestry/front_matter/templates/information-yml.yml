@@ -47,5 +47,15 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: facebook
+  type: text
+  config:
+    required: false
+  label: Facebook
+- name: youtube
+  type: text
+  config:
+    required: false
+  label: Youtube
 pages:
 - _data/information.yml

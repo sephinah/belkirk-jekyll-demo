@@ -13,6 +13,7 @@ sponsors:
 - "/uploads/2020/03/27/regional logo.png"
 show_news: true
 sub_heading: Together we bring EFA (Education For All)
+layout: contact
 menu:
   navigation:
     identifier: _contact
@@ -23,9 +24,9 @@ menu:
 
 Educcentral Philippines:
 
-* **Monday-Friday**, 8:00am to 6:00pm EST
+* **Monday-Friday**, 8:00am to 5:00pm EST
 * **Saturdays**, 8:00am to 5:00pm EST
-* **Sundays**, 9:00am to 12:00pm EST
+* **Sundays**, 9:00am to 12:00pm EST 
 
 ## Contact Information
 

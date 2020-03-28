@@ -17,6 +17,12 @@ related_posts:
 ---
 ### HTML Fundamentals
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u5cb0VMgbtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Learning HTML Hypertext markup language is a very exciting course to pursue. Check this website to start learning the basics of HTML.
 
-    gfsgdsgsfdgsdgsd
+[HTML Fundamentals](https://www.w3schools.com/html/default.asp)
+
+#### Quiz time
+
+It is good to test your ability to check out the website link below to test your knowledge
+
+[HTML Exercises]()
