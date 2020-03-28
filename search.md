@@ -17,5 +17,4 @@ menu:
     weight: 6
 
 ---
-<script async src="https://cse.google.com/cse.js?cx=001561943184230222942:x0jr0rfustm"></script>
-<div class="gcse-search"></div>
+<script async src="https://cse.google.com/cse.js?cx=001561943184230222942:x0jr0rfustm"></script><div class="gcse-search"></div>
