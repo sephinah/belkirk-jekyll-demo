@@ -65,6 +65,9 @@ fields:
 - name: show_partners
   type: boolean
   label: Show Partners
+  showOnly:
+    field: show_partners
+    value: false
 - type: boolean
   name: show_news
   label: Show News?
