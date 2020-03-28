@@ -9,7 +9,7 @@ hero_button:
   href: ''
 textline: ''
 services: []
-show_news: false
+show_news: true
 partners:
 - "/uploads/2020/03/27/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
 - "/uploads/2020/03/27/classicademy logo.png"
