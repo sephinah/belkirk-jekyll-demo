@@ -23,8 +23,6 @@ The K to 12 Program covers **Kindergarten and 12 years of basic education (six y
 
 # SALIENT FEATURES
 
-![](https://www.officialgazette.gov.ph/images/uploads/Early-childhoon-education.png)
-
 Strengthening Early Childhood Education (Universal Kindergarten)
 
 ![](https://www.officialgazette.gov.ph/images/uploads/Contextualization.png)
