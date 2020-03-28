@@ -20,4 +20,4 @@ menu:
 ---
 The Educcentral Philippines is an Online Educational Platform that brings open online education for all.  This educational platform promotes quality and access to education throughout the country bringing hope to the new generation.
 
-Educcentral Philippines aims to connect from various educational establishments as well as local and international corporate industries and provide jobs that will cater to the global needs of the economy. 
+Educcentral Philippines aims to connect from various educational establishments as well as local and international corporate industries and provide jobs that will cater to the global needs of the economy.
