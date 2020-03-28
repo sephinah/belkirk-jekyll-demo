@@ -39,4 +39,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/html-fundamental.md
+- _posts/2020-03-27-html-fundamental.md
