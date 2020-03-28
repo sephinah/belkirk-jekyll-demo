@@ -8,7 +8,7 @@ tags:
 - mooc
 - open education
 layout: post
-banner_image: "/uploads/2020/03/28/educcentral-banner.jpg"
+banner_image: ''
 
 ---
 Welcome to Educcentral Philippines!
