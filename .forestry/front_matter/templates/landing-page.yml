@@ -62,6 +62,10 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: partners
+  type: image_gallery
+  config: {}
+  label: partners
 - name: show_partners_
   type: boolean
   label: Show Partners?
