@@ -30,8 +30,8 @@ Educcentral Philippines:
 ## Follow us on Social Media
 
 * [**www.facebook.com/educcentralph**](www.facebook.com/educcentralph)
-* [www.twitter.com/educcentralph](www.twitter.com/educcentralph)
-* [www.youtube.com/educcentralph](www.youtube.com/educcentralph)
+* [**www.twitter.com/educcentralph**](www.twitter.com/educcentralph)
+* [**www.youtube.com/educcentralph**](www.youtube.com/educcentralph)
 
 ## Contact Information
 
