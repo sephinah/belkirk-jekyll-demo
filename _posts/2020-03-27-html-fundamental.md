@@ -21,6 +21,4 @@ related_posts:
 
 <iframe src="https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1">
 
-  <p>Your browser does not support iframes.</p>
-
 </iframe>
