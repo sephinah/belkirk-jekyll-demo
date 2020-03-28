@@ -27,4 +27,4 @@ I have created this website generally for the sake of the common good of everyon
 
 First of all, I am grateful to finish my education and always continue pursuing my dream of obtaining to become a full pledge Ph.D. holder someday.  With this desire, I would like to share my knowledge on different educational endeavors that I have been through. Back then I realized that going to school, passing the examination is the ultimate goal of education, but perhaps it changed when I came to realize after all.  
 
-> Education is the stimuli "pleasure of learning.
+> #### Education is the stimuli "pleasure of learning.
