@@ -62,6 +62,11 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: show_partners
+  type: include
+  config: {}
+  template: person
+  label: show partners
 - type: boolean
   name: show_news
   label: Show News?
