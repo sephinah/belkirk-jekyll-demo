@@ -29,9 +29,9 @@ Educcentral Philippines:
 
 ## Follow us on Social Media
 
-* [**www.facebook.com/educcentralph**](www.facebook.com/educcentralph)
-* [**www.twitter.com/educcentralph**](www.twitter.com/educcentralph)
-* [**www.youtube.com/educcentralph**](www.youtube.com/educcentralph)
+* [**www.facebook.com/educcentralph**](http://www.facebook.com/educcentralph "educcentralph")
+* [**www.twitter.com/educcentralph**](http://twitter.com/educcentralph "educcentralph")
+* [**www.youtube.com/educcentralph**](http://youtube.com/educcentralph "educcentralph")
 
 ## Contact Information
 
