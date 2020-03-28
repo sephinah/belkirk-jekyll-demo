@@ -26,8 +26,8 @@ services:
   heading: STEM
   icon: "/uploads/2017/11/13/health.png"
 - description: Accounting and Business Management Courses
-  heading: Accounting and Business Management
-  icon: "/uploads/2017/11/13/biotech.png"
+  heading: ABM
+  icon: "/uploads/2020/03/28/abm-strand-1-638.jpg"
 sub_heading: Online Open Education Start now for FREE!
 textline: |-
   Educcentral Philippines
