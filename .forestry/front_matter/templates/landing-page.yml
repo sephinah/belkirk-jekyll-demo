@@ -62,7 +62,7 @@ fields:
     default: ''
   hidden: false
   default: ''
-- name: show_partners
+- name: show_partner_institutions
   type: boolean
   label: Show Partners
   showOnly:
