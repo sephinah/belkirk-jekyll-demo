@@ -1,18 +1,22 @@
 ---
-title: Welcome to the Forestry Demo Site!
-date: 2017-09-25 09:09:13 +0000
-related_posts:
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
+title: Welcome to Educcentral Philippines
+date: 2020-03-27 09:09:13 +0000
+related_posts: []
+sub_heading: ''
 tags:
-- Demo
-- Forestry
+- educcentralph
+- mooc
+- open education
 layout: post
 banner_image: ''
+
 ---
-Welcome to the Belkirk College of Engineering Demo Site!
+Welcome to Educcentral Philippines!
 
-This site allows you to explore Forestry's features and functionality, and is **not** meant to be used as a production website. To get started building your own site, please see our [documentation](https://forestry.io/docs/).
+Educcentral Philippines is a FREE platform for learning. Together with our team and founder will be uploading full pack of learning materials and resources from different field of specialization to help you with pursuing and finishing your studies.
 
-Thank you for choosing to demo Forestry!
+With us, together we can bring Education For ALL (EFA 2015). **Education For All (EFA)** is a global movement led by [UNESCO](https://en.wikipedia.org/wiki/UNESCO "UNESCO") (United Nation Educational, Scientific and Cultural Organization), aiming to meet the learning needs of all children, youth and adults by 2015.
+
+Together hand-in-hand we can bring change through investing our time in educating ourselves.
+
+\- Founder

@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/03/28/ian-schneider-TamMbr4okv4-unsplash.jpg"
+banner_image: "/uploads/2020/03/27/passion led us here.jpg"
 heading: About Educcentral Philippines
 sub_heading: Education Made Possible
 layout: landing-page
