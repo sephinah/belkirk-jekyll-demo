@@ -1,14 +1,12 @@
 ---
-title: Eschnaseth N. Maceda
-date: '2017-11-14T10:47:11.000+00:00'
 role:
-- advisor
 - staff
-thumbnail: "/uploads/2020/03/28/profile-me1.jpg"
-sub_heading: Founder
-email: centroedukado@gmail.com
-linkedin: ''
 layout: person
+title: Eschnaseth N. Maceda
+sub_heading: Founder
+thumbnail: "/uploads/2020/03/28/profile-me1.jpg"
+email: centroedukado@gmail.com
+linkedin: linkedin/educcentralph
 
 ---
 Eschnaseth N. Maceda is a teacher since 2013 and founded Educcentral Philippines as part of fulfilling his goals in life.
@@ -27,7 +25,7 @@ One of his goal in life is to provide quality and access to education to the fut
 
 I have created this website generally for the sake of the common good of everyone not only for some that have the passion for learning and to learn, rather promote goodness and value in educating ourselves. Formal or non-formal, traditional or blended kind of learning is called education.
 
-First of all, I am grateful to finish my education and always continue pursuing my dream of obtaining to become a full pledge Ph.D. holder someday.  With this desire, I would like to share my knowledge on different educational endeavors that I have been through. Back then I realized that going to school, passing the examination is the ultimate goal of education, but perhaps it changed when I came to realize after all.  
+First of all, I am grateful to finish my education and always continue pursuing my dream of obtaining to become a full pledge Ph.D. holder someday.  With this desire, I would like to share my knowledge on different educational endeavors that I have been through. Back then I realized that going to school, passing the examination is the ultimate goal of education, but perhaps it changed when I came to realize after all.
 
 ***
 
@@ -40,3 +38,7 @@ At the very beginning, Education is something that we need to inhale as being.  
 In this scenario, through the concept of environment, the natural response of the living is the capability of surviving. Whereas, nurturing with proper training and education will enhance the ability through learning.
 
 Together with my various academic teams, we will bring as good knowledge as much as we can provide to contribute to the future of the next generation.
+
+> Help me to go further, through donating with your act of kindness.
+>
+> [I support Educcentral Philippines!](gf.me/u/xtkdzh "Donate")
