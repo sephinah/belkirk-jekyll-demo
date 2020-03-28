@@ -13,6 +13,7 @@ sponsors:
 - "/uploads/2020/03/27/regional logo.png"
 show_news: true
 sub_heading: Together we bring EFA (Education For All)
+layout: contact
 menu:
   navigation:
     identifier: _contact
