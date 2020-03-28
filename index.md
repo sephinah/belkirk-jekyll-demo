@@ -4,23 +4,26 @@ banner_image: "/uploads/2020/03/27/lauren-mancke-aOC7TSLb1o8-unsplash.jpg"
 layout: landing-page
 heading: Educcentral Philippines
 partners:
-- "/uploads/2017/11/13/nysed.png"
-- "/uploads/2017/11/13/health.png"
-- "/uploads/2017/11/13/biotech.png"
-- "/uploads/2017/11/13/dal-logo.png"
-- "/uploads/2017/11/13/iwk-logo.png"
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/innovation-pei-logo.png"
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- heading: TESDA Courses
+  description: Short Course Diploma
+  icon: "/uploads/2020/03/28/1200px-Technical_Education_and_Skills_Development_Authority_(TESDA).svg.png"
+- heading: Higher Education Programs
+  description: Bachelors Degree Programs
+  icon: "/uploads/2020/03/28/CHED-LOGO.png"
+- heading: K-12 Program
+  description: Kindergarten to Grade 12 Programs
+  icon: "/uploads/2020/03/27/deped logo.jpg"
+- heading: Music and Arts
+  description: Music and Arts Courses
+  icon: "/uploads/2020/03/27/classicademy logo.png"
+- description: Science, Technology, Engineering, Mathematics
+  heading: STEM
+  icon: "/uploads/2020/03/28/STEM-Feature-Image.jpg"
+- description: Accounting and Business Management Courses
+  heading: ABM
+  icon: "/uploads/2020/03/28/abm-strand-1-638.jpg"
 sub_heading: Online Open Education Start now for FREE!
 textline: |-
   Educcentral Philippines
