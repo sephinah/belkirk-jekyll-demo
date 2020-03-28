@@ -1,17 +1,14 @@
 ---
-title: Short Course Diploma Courses
-date: '2016-04-20T00:00:00.000+00:00'
-categories: []
-description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
-  Program for Canada'
-banner_image: "/uploads/2020/03/28/ITIL-Certification.png"
-sub_heading: Online Certification Program
 tags:
-- short course diploma
 - educcentralph
-- certification programs
-- national certification
-slug: shortcoursediplomaprogram
+- shortcourse diploma
+- online education
+- online certification program
+- teacher training program
+title: Online Certification Program
+sub_heading: Short Course Diploma
+banner_image: "/uploads/2020/03/28/ITIL-Certification.png"
+slug: Online Certification Program
 
 ---
 # Short Course Diploma Program

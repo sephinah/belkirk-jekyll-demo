@@ -1,6 +1,6 @@
 ---
 title: Welcome to Educcentral Philippines
-date: 2020-03-27 09:09:13 +0000
+date: 2020-03-27T09:09:13.000+00:00
 related_posts: []
 sub_heading: ''
 tags:
@@ -19,4 +19,4 @@ With us, together we can bring Education For ALL (EFA 2015). **Education For All
 
 Together hand-in-hand we can bring change through investing our time in educating ourselves.
 
-\- Founder
+\- Eschnaseth N. Maceda, Founder

@@ -1,14 +1,16 @@
 ---
-title: K to 12 Program
-date: '2016-04-20T00:00:00.000+00:00'
-categories: []
-description: A portable device for epileptic patients.
-banner_image: "/uploads/2020/03/28/kto12.png"
-sub_heading: Kindergarten to Senior High School Grade 12 Program
+layout: post
+title: What is K to 12 Program
+sub_heading: K to 12 Program and its Curriculum in the Philippines
+date: 2020-03-27 16:00:00 +0000
 tags:
-- engineering
-- research
-slug: ''
+- kto12 program
+- kto12
+- educcentralph
+banner_image: ''
+related_posts:
+- _posts/2020-03-27-html-fundamental.md
+- _posts/2020-03-27-what-is-k-to-12-program.md
 
 ---
 ## K to 12 Program
@@ -195,7 +197,6 @@ IMPLEMENTATION AND TRANSITION MANAGEMENT
 
 #### TRANSITION FOR PRIVATE SCHOOLS
 
-  
 ![Private-school-transition](https://www.officialgazette.gov.ph/images/uploads/Private-school-transition.png =940x341)
 
 Private schools craft their transition plans based on: (1) current/previous entry ages for Grade 1 and final year of Kinder, (2) duration of program , and most importantly, (3) content of curriculum offered.
@@ -388,13 +389,13 @@ Not necessarily.
 You can find out more at [www.deped.gov.ph/k-to-12](http://www.deped.gov.ph/k-to-12). You can also ask your school administration (public or private) to contact the DepEd division office to help organize an orientation seminar.
 
 **What is the Voucher Program?**  
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-SocMed-Posts-1-copy.jpg =100%x)
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-SocMed-Posts-1-copy.jpg)
 
 * This program enables Grade 10 completers from public and private Junior High Schools (JHS) to enroll in a (1) private high school, (2) private university or college, (3) state or local university or college, or (4) technical-vocational school, which will offer the Senior High School program starting School Year 2016-2017.
 * Through the Voucher Program, students and their families are able to exercise greater choice in deciding the Senior High School program that is most relevant to their needs and career goals. A certain amount will be subsidized by DepEd to private SHS to offset the cost of tuition.
 
 **Who will benefit from the Voucher Program? Can I apply?**  
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-SocMed-Posts-2-copy.jpg =100%x)
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-SocMed-Posts-2-copy.jpg)
 
 * All JHS completers from public junior high schools are qualified to receive the full voucher values.
 * Private junior high school completers who are on Education Service Contracting (ESC) grants will receive 80% of the full voucher value.
@@ -402,7 +403,7 @@ You can find out more at [www.deped.gov.ph/k-to-12](http://www.deped.gov.ph/k-to
 * Students will be notified of their eligibility prior to completing Grade 10. No monetary value is given to the student directly instead the subsidy is remitted to the Senior High School where he/she will enroll.
 
 **How much is the value of the voucher?**  
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-SocMed-Posts-3-copy.jpg =100%x)
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-SocMed-Posts-3-copy.jpg)
 
 The actual amount of the vouchers will depend on the location of the SHS where the student will enroll.
 
@@ -414,13 +415,13 @@ The voucher must be used in the school year immediately following the year of JH
 
 Non-DepEd schools may charge tuitions that are higher than the voucher subsidy amounts. Students and parents are expected to cover the difference between the tuition fee charged by the school and the voucher subsidy from government.
 
-**How can I apply for the voucher program?**  
-   
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-5-copy.jpg =100%x)  
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-1-copy.jpg =100%x)  
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-2.jpg =100%x)  
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-3-copy.jpg =100%x)  
-![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-4-copy.jpg =100%x)
+**How can I apply for the voucher program?**
+
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-5-copy.jpg)  
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-1-copy.jpg)  
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-2.jpg)  
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-3-copy.jpg)  
+![](http://www.officialgazette.gov.ph/images/uploads/Voucher-Enrollment-Posts-4-copy.jpg)
 
 [Learn more on the Deped website](http://www.deped.gov.ph/infographics/some-questions-senior-high-school-voucher-program)
 
@@ -468,6 +469,6 @@ _*Faculty of TVIs and HEIs will be given priority in hiring for the transition p
 * The College General Education curriculum will have fewer units. Subjects that have been taken up in Basic Education will be removed from the College General Education curriculum.
 * Details of the new GE Curriculum may be found in CHED Memorandum Order No. 20, series of 2013.
 
-Source: 
+Source:
 
 [https://www.officialgazette.gov.ph/k-12/](https://www.officialgazette.gov.ph/k-12/ "https://www.officialgazette.gov.ph/k-12/")

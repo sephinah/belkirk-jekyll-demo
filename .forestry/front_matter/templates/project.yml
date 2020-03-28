@@ -26,3 +26,7 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _projects/k-to-12-program.md
+- _projects/online-certification-program.md
+- _projects/tertiary-education.md
