@@ -11,7 +11,7 @@ tags:
 - educcentralph
 - certification programs
 - national certification
-slug: shortcourse
+slug: shortcoursediplomaprogram
 
 ---
 # Short Course Diploma Program
