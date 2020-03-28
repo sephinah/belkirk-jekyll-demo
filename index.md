@@ -13,6 +13,9 @@ partners:
 - "/uploads/2017/11/13/innovation-pei-logo.png"
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 services:
+- heading: Music and Arts
+  description: ''
+  icon: "/uploads/2020/03/27/classicademy logo.png"
 - description: Science, Technology, Engineering, Mathematics
   heading: STEM
   icon: "/uploads/2017/11/13/health.png"
