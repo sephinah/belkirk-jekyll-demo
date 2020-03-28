@@ -17,6 +17,10 @@ related_posts:
 ---
 ### HTML Fundamentals
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u5cb0VMgbtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Quiz time
 
-    gfsgdsgsfdgsdgsd
+<iframe src="https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1">
+
+  <p>Your browser does not support iframes.</p>
+
+</iframe>
