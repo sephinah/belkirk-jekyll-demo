@@ -4,13 +4,6 @@ banner_image: "/uploads/2020/03/27/lauren-mancke-aOC7TSLb1o8-unsplash.jpg"
 layout: landing-page
 heading: Educcentral Philippines
 partners:
-- "/uploads/2017/11/13/nysed.png"
-- "/uploads/2017/11/13/health.png"
-- "/uploads/2017/11/13/biotech.png"
-- "/uploads/2017/11/13/dal-logo.png"
-- "/uploads/2017/11/13/iwk-logo.png"
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/innovation-pei-logo.png"
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 services:
 - heading: TESDA Courses
