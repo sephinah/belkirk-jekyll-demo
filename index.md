@@ -13,9 +13,8 @@ partners:
 - "/uploads/2017/11/13/innovation-pei-logo.png"
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: Science, Technology, Engineering, Mathematics
+  heading: STEM
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
