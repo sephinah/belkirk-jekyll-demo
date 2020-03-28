@@ -62,13 +62,17 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: show_partner_institutions
+  type: boolean
+  label: Show Partners
+  showOnly:
+    value: false
+  description: Enables a partnering institutions and their collections of information
+  hidden: true
 - type: boolean
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
-- type: image_gallery
-  name: partners
-  label: Partner Logos
 - type: boolean
   name: show_staff
   label: Show Staff?
@@ -76,7 +80,7 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: true
+  hidden: false
   default: home
 pages:
 - index.md

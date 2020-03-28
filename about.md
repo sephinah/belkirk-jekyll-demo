@@ -1,9 +1,9 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/uploads/2020/03/28/ian-schneider-TamMbr4okv4-unsplash.jpg"
 heading: About Educcentral Philippines
-sub_heading: Educcentral Philippines
+sub_heading: Education Made Possible
 layout: landing-page
 textline: Educentral Philippines is composed of committed people bringing quality
   education with its ultimate purpose of bringing education has no boundaries.
