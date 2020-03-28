@@ -4,7 +4,7 @@ date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2020/03/28/1200px-Technical_Education_and_Skills_Development_Authority_(TESDA).svg.png"
+banner_image: "/uploads/2020/03/28/ITIL-Certification.png"
 sub_heading: ''
 tags:
 - short course diploma
