@@ -6,7 +6,7 @@ role:
 - staff
 thumbnail: "/uploads/2020/03/28/profile-me2.jpg"
 sub_heading: Professor
-email: murphy@belkirkcollege.com
+email: centroedukado@gmail.com
 linkedin: ''
 layout: person
 
