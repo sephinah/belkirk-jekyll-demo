@@ -16,8 +16,8 @@ services:
 - heading: K-12 Program
   description: Kindergarten to Grade 12 Programs
   icon: "/uploads/2020/03/27/deped logo.jpg"
-- heading: Music
-  description: ''
+- heading: Music and Arts
+  description: Music and Arts Courses
   icon: "/uploads/2020/03/27/classicademy logo.png"
 - description: Science, Technology, Engineering, Mathematics
   heading: STEM
