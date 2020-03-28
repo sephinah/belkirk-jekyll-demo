@@ -9,5 +9,5 @@ fields:
 - name: layout
   type: include
   config: {}
-  template: landing-page
+  template: home-2
   label: layout
