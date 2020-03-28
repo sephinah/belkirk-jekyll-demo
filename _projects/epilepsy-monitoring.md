@@ -57,3 +57,70 @@ Education for children in the early years lays the foundation for lifelong learn
 In Kindergarten, students learn the alphabet, numbers, shapes, and colors through games, songs, and dances, in their Mother Tongue.
 
 ![](https://www.officialgazette.gov.ph/images/uploads/What-kindergarten-students-learn.png)
+
+# MAKING THE CURRICULUM RELEVANT TO LEARNERS (CONTEXTUALIZATION AND ENHANCEMENT)
+
+Examples, activities, songs, poems, stories, and illustrations are based on local culture, history, and reality. This makes the lessons relevant to the learners and easy to understand.
+
+Students acquire in-depth knowledge, skills, values, and attitudes through continuity and consistency across all levels and subjects.
+
+Discussions on issues such as Disaster Risk Reduction (DRR), Climate Change Adaptation, and Information & Communication Technology (ICT) are included in the enhanced curriculum.
+
+# BUILDING PROFICIENCY THROUGH LANGUAGE (MOTHER TONGUE-BASED MULTILINGUAL EDUCATION)
+
+Students are able to learn best through their first language, their Mother Tongue (MT). Twelve (12) MT languages have been introduced for SY 2012-2013: Bahasa Sug, Bikol, Cebuano, Chabacano, Hiligaynon, Iloko, Kapampangan, Maguindanaoan, Meranao, Pangasinense, Tagalog, and Waray. Other local languages will be added in succeeding school years.
+
+Aside from the Mother Tongue, English and Filipino are taught as subjects starting Grade 1, with a focus on oral fluency. From Grades 4 to 6, English and Filipino are gradually introduced as languages of instruction. Both will become primary languages of instruction in Junior High School (JHS) and Senior High School (SHS).
+
+After Grade 1, every student can read in his or her Mother Tongue. Learning in Mother Tongue also serves as the foundation for students to learn Filipino and English easily.
+
+# ENSURING INTEGRATED AND SEAMLESS LEARNING (SPIRAL PROGRESSION)
+
+Subjects are taught from the simplest concepts to more complicated concepts through grade levels in spiral progression. As early as elementary, students gain knowledge in areas such as Biology, Geometry, Earth Science, Chemistry, and Algebra. This ensures a mastery of knowledge and skills after each level.
+
+For example, currently in High School, Biology is taught in 2nd Year, Chemistry in 3rd Year, and Physics in 4th Year. In K to 12, these subjects are connected and integrated from Grades 7 to 10. This same method is used in other Learning Areas like Math.
+
+GEARING UP FOR THE FUTURE (SENIOR HIGH SCHOOL)
+
+Senior High School is two years of specialized upper secondary education; students may choose a specialization based on aptitude, interests, and school capacity. The choice of career track will define the content of the subjects a student will take in Grades 11 and 12. SHS subjects fall under either the Core Curriculum or specific Tracks.
+
+#### CORE CURRICULUM
+
+There are seven Learning Areas under the Core Curriculum. These are Languages, Literature, Communication, Mathematics, Philosophy, Natural Sciences, and Social Sciences. Current content from some General Education subjects are embedded in the SHS curriculum.
+
+#### TRACKS
+
+Each student in Senior High School can choose among three tracks: Academic; Technical-Vocational-Livelihood; and Sports and Arts. The Academic track includes three strands: Business, Accountancy, Management (BAM); Humanities, Education, Social Sciences (HESS); and Science, Technology, Engineering, Mathematics (STEM).
+
+Students undergo immersion, which may include earn-while-you-learn opportunities, to provide them relevant exposure and actual experience in their chosen track.
+
+#### TVET (TECHNICAL VOCATIONAL EDUCATION & TRAINING) NATIONAL CERTIFICATE
+
+After finishing Grade 10, a student can obtain Certificates of Competency (COC) or a National Certificate Level I (NC I). After finishing a Technical-Vocational-Livelihood track in Grade 12, a student may obtain a National Certificate Level II (NC II), provided he/she passes the competency-based assessment of the Technical Education and Skills Development Authority (TESDA).
+
+NC I and NC II improves employability of graduates in fields like Agriculture, Electronics, and Trade.
+
+#### MODELING BEST PRACTICES FOR SENIOR HIGH SCHOOL
+
+In SY 2012-2013, there are 33 public high schools, public technical-vocational high schools, and higher education institutions (HEIs) that have implemented Grade 11. This is a Research and Design (R&D) program to simulate different aspects of Senior High School in preparation for full nationwide implementation in SY 2016-2017. Modeling programs offered by these schools are based on students’ interests, community needs, and their respective capacities.
+
+#### NURTURING THE HOLISTICALLY DEVELOPED FILIPINO (COLLEGE AND LIVELIHOOD READINESS, 21ST CENTURY SKILLS)
+
+After going through Kindergarten, the enhanced Elementary and Junior High curriculum, and a specialized Senior High program, every K to 12 graduate will be ready to go into different paths – may it be further education, employment, or entrepreneurship.
+
+Every graduate will be equipped with:
+
+1. Information, media and technology skills,
+2. Learning and innovation skills,
+3. Effective communication skills, and
+4. Life and career skills.
+
+# CURRICULUM GUIDE
+
+ELEMENTARY
+
+##### KINDERGARTEN
+
+The Kindergarten Curriculum Framework (KCF) draws from the goals of the K to 12 Philippine Basic Education Curriculum Framework and adopts the general principles of the National Early Learning Framework (NELF). Kindergarten learners need to have a smooth transition to the content-based curriculum of Grades 1 to 12.
+
+[Download Curriculum Guide](http://www.google.com/url?q=http%3A%2F%2Fwww.deped.gov.ph%2Fsites%2Fdefault%2Ffiles%2Fpage%2F2014%2FFinal%2520Kindergarten%2520CG%2520December%25202013.pdf&sa=D&sntz=1&usg=AFQjCNHwNG6BMM-l7GdbUdmwDw2D6ngX7w)
