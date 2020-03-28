@@ -32,14 +32,14 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-show_staff: true
+show_staff: false
 sponsors:
 - "/uploads/2020/03/27/classicademy logo.png"
 - "/uploads/2020/03/27/calderon-logo.jpg"
 - "/uploads/2020/03/27/educcentralph-logo.jpg"
 - "/uploads/2020/03/27/deped logo.jpg"
 - "/uploads/2020/03/27/regional logo.png"
-show_partners: true
+show_partners: false
 menu:
   navigation:
     identifier: _index
