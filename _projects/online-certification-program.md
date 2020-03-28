@@ -9,7 +9,6 @@ title: Online Certification Program
 sub_heading: Short Course Diploma
 banner_image: "/uploads/2020/03/28/ITIL-Certification.png"
 slug: Online Certification Program
-published: false
 
 ---
 # Short Course Diploma Program
