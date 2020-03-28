@@ -1,10 +1,9 @@
 ---
-title: Welcome to Educcentral Philippines
+title: ''
 date: 2020-03-27 09:09:13 +0000
 related_posts:
-- _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
-sub_heading: Educcentral Philippines Online Education Program
+sub_heading: ''
 tags:
 - educcentralph
 - mooc
