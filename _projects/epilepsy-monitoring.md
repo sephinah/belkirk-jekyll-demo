@@ -19,8 +19,6 @@ slug: ''
 
 The K to 12 Program covers **Kindergarten and 12 years of basic education (six years of primary education, four years of Junior High School, and two years of Senior High School \[SHS\])** to provide sufficient time for mastery of concepts and skills, develop lifelong learners, and prepare graduates for tertiary education, middle-level skills development, employment, and entrepreneurship.
 
-![Kto12-Basic-education](https://www.officialgazette.gov.ph/images/uploads/Kto12-Basic-education.png =940x372)
-
 # SALIENT FEATURES
 
 Strengthening Early Childhood Education (Universal Kindergarten)
