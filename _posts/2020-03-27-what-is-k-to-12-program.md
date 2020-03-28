@@ -2,15 +2,15 @@
 layout: post
 title: What is K to 12 Program
 sub_heading: K to 12 Program and its Curriculum in the Philippines
-date: 2020-03-27 16:00:00 +0000
+date: 2020-03-27T16:00:00.000+00:00
 tags:
 - kto12 program
 - kto12
 - educcentralph
 banner_image: ''
 related_posts:
+- _posts/2017-09-25-introduction.md
 - _posts/2020-03-27-html-fundamental.md
-- _posts/2020-03-27-what-is-k-to-12-program.md
 
 ---
 ## K to 12 Program
