@@ -19,10 +19,12 @@ He published several books, modules for free consumption at the public school wh
 
 One of his goal in life is to provide quality and access to education to the future generation
 
-#### "I believe that education is the key bearer to illuminate the darkness."
+> #### "I believe that education is the key bearer to illuminate the darkness."
 
 \-Eschnaseth N. Maceda
 
 I have created this website generally for the sake of the common good of everyone not only for some that have the passion for learning and to learn, rather promote goodness and value in educating ourselves. Formal or non-formal, traditional or blended kind of learning is called education.
 
-I have obtained 663
+First of all, I am grateful to finish my education and always continue pursuing my dream of obtaining to become a full pledge Ph.D. holder someday.  With this desire, I would like to share my knowledge on different educational endeavors that I have been through. Back then I realized that going to school, passing the examination is the ultimate goal of education, but perhaps it changed when I came to realize after all.  
+
+> Education is the stimuli "pleasure of learning.
