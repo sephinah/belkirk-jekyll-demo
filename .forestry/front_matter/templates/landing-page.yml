@@ -76,7 +76,7 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: home
 pages:
 - home-2.md
