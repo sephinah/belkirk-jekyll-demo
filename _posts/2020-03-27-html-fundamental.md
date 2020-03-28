@@ -7,6 +7,8 @@ tags:
 - html
 - ict
 - educcentralph
+- computer education
+- computer
 banner_image: ''
 related_posts: []
 
