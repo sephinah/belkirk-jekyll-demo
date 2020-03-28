@@ -1,0 +1,13 @@
+---
+label: home 2
+hide_body: false
+fields:
+- name: sponsor
+  type: image_gallery
+  config: {}
+  label: sponsor
+- name: layout
+  type: include
+  config: {}
+  template: home-2
+  label: layout
