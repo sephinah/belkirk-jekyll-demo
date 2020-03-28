@@ -68,6 +68,7 @@ fields:
   showOnly:
     value: false
   description: Enables a partnering institutions and their collections of information
+  hidden: true
 - type: boolean
   name: show_news
   label: Show News?
