@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Welcome to Educcentral Philippines
 date: 2020-03-27 09:09:13 +0000
 related_posts:
 - _posts/2017-08-01-welcome.md
