@@ -8,7 +8,9 @@ tags:
 - kto12
 - educcentralph
 banner_image: ''
-related_posts: []
+related_posts:
+- _posts/2020-03-27-html-fundamental.md
+- _posts/2020-03-27-what-is-k-to-12-program.md
 
 ---
 ## K to 12 Program
