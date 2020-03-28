@@ -25,13 +25,6 @@ sections:
   templates:
   - person
 - type: directory
-  path: _partners
-  label: Partners
-  create: all
-  match: "*"
-  templates:
-  - person
-- type: directory
   path: _projects
   label: Projects
   create: all
