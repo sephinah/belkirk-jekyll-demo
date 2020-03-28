@@ -1,15 +1,17 @@
 ---
-title: Welcome to the Forestry Demo Site!
-date: 2017-09-25 09:09:13 +0000
+title: Welcome to Educcentral Philippines
+date: 2020-03-27 09:09:13 +0000
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
+sub_heading: Educcentral Philippines Online Education Program
 tags:
-- Demo
-- Forestry
+- educcentralph
+- mooc
+- open education
 layout: post
-banner_image: ''
+banner_image: "/uploads/2020/03/28/educcentral-banner.jpg"
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
