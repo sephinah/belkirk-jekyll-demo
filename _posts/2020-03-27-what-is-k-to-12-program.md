@@ -7,7 +7,7 @@ tags:
 - kto12 program
 - kto12
 - educcentralph
-banner_image: ''
+banner_image: "/uploads/2020/03/28/kto12.png"
 related_posts:
 - _posts/2017-09-25-introduction.md
 - _posts/2020-03-27-html-fundamental.md
