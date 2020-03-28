@@ -27,4 +27,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/online-certification-program.md
 - _projects/tertiary-education.md
