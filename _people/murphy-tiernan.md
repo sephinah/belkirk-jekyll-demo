@@ -4,7 +4,7 @@ date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2020/03/28/profile-me2.jpg"
+thumbnail: "/uploads/2020/03/28/profile-me1.jpg"
 sub_heading: Professor
 email: centroedukado@gmail.com
 linkedin: ''
