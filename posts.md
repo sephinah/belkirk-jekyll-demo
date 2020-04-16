@@ -1,5 +1,5 @@
 ---
-title: Online Courses
+title: Blog
 layout: posts
 sub_heading: ''
 description: Articles by Belkirk College
