@@ -1,7 +1,7 @@
 ---
 heading: Free Online Course
 sub_heading: ''
-layout: home
+layout: ''
 title: oed
 banner_image: "/uploads/2020/03/27/banner 1.jpg"
 hero_button:
