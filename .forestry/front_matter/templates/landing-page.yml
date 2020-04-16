@@ -80,5 +80,6 @@ fields:
   hidden: false
   default: home
 pages:
+- courses.md
 - index.md
 - search.md
