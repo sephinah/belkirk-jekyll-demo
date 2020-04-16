@@ -12,5 +12,10 @@ services: []
 partners: []
 show_news: false
 show_staff: false
+menu:
+  navigation:
+    weight: 1
+    parent: _posts
+    title: OED
 
 ---
