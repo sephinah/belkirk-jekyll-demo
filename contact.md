@@ -27,6 +27,12 @@ Educcentral Philippines:
 * **Saturdays**, 8:00am to 5:00pm EST
 * **Sundays**, 9:00am to 12:00pm EST
 
+## Follow us on Social Media
+
+* [**www.facebook.com/educcentralph**](http://www.facebook.com/educcentralph "educcentralph")
+* [**www.twitter.com/educcentralph**](http://twitter.com/educcentralph "educcentralph")
+* [**www.youtube.com/educcentralph**](http://youtube.com/educcentralph "educcentralph")
+
 ## Contact Information
 
 {% include address.html %}
